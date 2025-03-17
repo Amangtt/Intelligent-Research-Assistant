@@ -1,0 +1,6 @@
+PyMuPDF
+pandas
+tqdm
+psycopg2
+python-dotenv
+nltk
